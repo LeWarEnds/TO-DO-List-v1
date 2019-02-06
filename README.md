@@ -11,4 +11,4 @@ A simple Javascript Project made using some backend stuff to keep you up-to-date
 3) Make sure to require all the modules before use.
 
 ## Contribute
-If you like the project, make sure to add your suggestions and update the file as per your needs. Send PR's and I will review them for sure.
+If you like the project, make sure to add your suggestions and update the file as per your needs. Send PR's and I will review them for sure :)
